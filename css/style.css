@@ -1,6 +1,7 @@
 body {
     font-family: 'Fira Sans', sans-serif;
     overflow-x: hidden;
+    font-size: 16px;
 }
 a, button {
     transition: all .2s linear;
@@ -135,6 +136,27 @@ button.close {
     font-size: 16px;
     margin-bottom: 40px;
 }
+.service-block-flex {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.service-block-item-img img {
+    width: 100%;
+}
+.service-block-item-title {
+    text-align: center;
+    font-weight: bold;
+}
+.service-block-item {
+    width: 19%;
+}
+.service-block-item-img {
+    padding: 40px;
+    border: 5px solid #ec1f24;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
 @media(max-width: 991px) {
     .header-flex-top {
         flex-wrap: wrap;
@@ -180,5 +202,12 @@ button.close {
     }
     .header-block-item a {
         margin-bottom: 15px;
+    }
+    .service-block-flex {
+        flex-wrap: wrap;
+    }
+    .service-block-item {
+        width: 30%;
+        margin-bottom: 20px;
     }
 }
