@@ -228,6 +228,9 @@ button.close {
     .navbar-nav {
         display: block;
     }
+    .galery-item {
+        width: 49.5%;
+    }
 }
 @media(max-width: 500px) {
     .service-block-item {
