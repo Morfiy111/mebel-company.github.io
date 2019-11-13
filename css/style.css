@@ -172,6 +172,47 @@ button.close {
 .galery-item img {
     width: 100%;
 }
+.iconblock-7 {
+    margin: 20px 0;
+    border: 1px solid #C5C5C5;
+    width:100%;
+    padding: 12px;
+    display: table;
+}
+.iconblock-7 .icon {
+    display: table-cell;
+    vertical-align: top;
+    width: 60px;
+    padding: 12px 12px 0 0;
+    text-align:center;
+}
+.iconblock-7 .icon i {
+    font-size:32px;
+    color: #ee8385;
+    transition: all .4s;
+    width: 32px;
+    height: 32px;
+}
+.iconblock-7:hover .icon i{
+    font-size:48px;
+    color: #ec1f24;
+    transform: rotate(-360deg);
+    width: 48px;
+    height: 48px;
+    opacity: 1;
+}
+.iconblock-7 h3 {
+    transition: all 0.7s ease 0s;
+    color: #337AB7;
+    font-size:20px;
+    margin:10px 0;
+}
+.iconblock-7:hover h3 {
+    color: #000;
+}
+.iconblock-7 span {
+    color: #ec1f24;
+}
 @media(max-width: 991px) {
     .header-flex-top {
         flex-wrap: wrap;
