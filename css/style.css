@@ -1,0 +1,14 @@
+body {
+    font-family: 'Fira Sans', sans-serif;
+    overflow-x: hidden;
+}
+a, button {
+    transition: all .2s linear;
+}
+a:focus {
+    text-decoration: none;
+}
+a:hover {
+    color: #ff6d0a;
+    text-decoration: none;
+}
