@@ -110,6 +110,7 @@ a:hover {
 .main-title-page {
     text-align: center;
     margin-bottom: 30px;
+    margin-top: 50px;
 }
 .owl-feedback-form input, .owl-feedback-form textarea {
     display: block;
@@ -236,6 +237,9 @@ button.close {
     display: block;
     width: 56px;
     height: 66px;
+}
+.full-image-block img {
+    width: 100%;
 }
 @media(max-width: 991px) {
     .header-flex-top {
