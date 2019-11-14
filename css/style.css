@@ -252,10 +252,16 @@ button.close {
     display: block;
     margin-bottom: 10px;
 }
+.footer-flex-block a:hover {
+    text-decoration: underline;
+}
 .footer-page {
     background-color: #ee8385;
     padding: 40px 0;
     margin-top: 50px;
+}
+.footer-address-item i {
+    margin-right: 5px;
 }
 @media(max-width: 991px) {
     .header-flex-top {
@@ -316,9 +322,19 @@ button.close {
     .galery-item {
         width: 49.5%;
     }
+    .footer-flex-block {
+        flex-wrap: wrap;
+    }
 }
 @media(max-width: 500px) {
     .service-block-item {
         width: 48%;
+    }
+    .footer-logo {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .footer-links {
+        margin-right: 15px;
     }
 }
