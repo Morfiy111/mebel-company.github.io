@@ -206,6 +206,7 @@ button.close {
     transition: all 0.7s ease 0s;
     font-size:22px;
     margin:10px 0;
+    padding-bottom: 17px;
 }
 .iconblock-7:hover h3 {
     color: #000;
@@ -311,6 +312,9 @@ button.close {
 }
 .footer-copyright a {
     color: #fff;
+}
+.production-block {
+    margin-bottom: 40px;
 }
 @media(max-width: 991px) {
     .header-flex-top {
