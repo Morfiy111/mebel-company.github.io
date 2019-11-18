@@ -307,6 +307,10 @@ button.close {
 .footer-copyright {
     text-align: center;
     font-size: 12px;
+    color: #fff;
+}
+.footer-copyright a {
+    color: #fff;
 }
 @media(max-width: 991px) {
     .header-flex-top {
