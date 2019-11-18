@@ -291,6 +291,19 @@ button.close {
 .owl-feedback-form .file-input-modal {
     margin-bottom: 30px;
 }
+.material-image img {
+    width: 100%;
+}
+.material-row {
+    display: flex;
+    justify-content: space-between;
+}
+.material-image {
+    width: 50%;
+}
+.material-text {
+    width: 48%;
+}
 @media(max-width: 991px) {
     .header-flex-top {
         flex-wrap: wrap;
@@ -356,6 +369,15 @@ button.close {
     .contact-tel-block {
         flex-direction: column;
         align-items: center;
+    }
+    .material-row {
+        flex-direction: column;
+    }
+    .material-image, .material-text {
+        width: 100%;
+    }
+    .material-row-reverse {
+        flex-direction: column-reverse;
     }
 }
 @media(max-width: 500px) {
