@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="309" column="53" selection-start-line="309" selection-start-column="53" selection-end-line="309" selection-end-column="53" />
+            <state relative-caret-position="45">
+              <caret line="224" column="38" selection-start-line="224" selection-start-column="38" selection-end-line="224" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="378" column="5" lean-forward="true" selection-start-line="378" selection-start-column="5" selection-end-line="378" selection-end-column="25" />
+            <state relative-caret-position="222">
+              <caret line="308" column="19" selection-start-line="308" selection-start-column="19" selection-end-line="308" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -48,6 +48,9 @@
       <find>мы при</find>
       <find>modal-body</find>
       <find>полу</find>
+      <find>изготовлен</find>
+      <find>пришлите</find>
+      <find>мы рас</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -63,8 +66,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="211" />
-    <option name="y" value="135" />
+    <option name="x" value="176" />
+    <option name="y" value="407" />
     <option name="width" value="1371" />
     <option name="height" value="815" />
   </component>
@@ -127,15 +130,15 @@
       <updated>1573625036677</updated>
       <workItem from="1573625038337" duration="19371000" />
       <workItem from="1573711064979" duration="7202000" />
-      <workItem from="1574055506554" duration="4875000" />
+      <workItem from="1574055506554" duration="7631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31448000" />
+    <option name="totallyTimeSpent" value="34204000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="195" y="385" width="1371" height="815" extended-state="0" />
+    <frame x="176" y="407" width="1371" height="815" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2574032" />
@@ -172,15 +175,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="378" column="5" lean-forward="true" selection-start-line="378" selection-start-column="5" selection-end-line="378" selection-end-column="25" />
+        <state relative-caret-position="222">
+          <caret line="308" column="19" selection-start-line="308" selection-start-column="19" selection-end-line="308" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="309" column="53" selection-start-line="309" selection-start-column="53" selection-end-line="309" selection-end-column="53" />
+        <state relative-caret-position="45">
+          <caret line="224" column="38" selection-start-line="224" selection-start-column="38" selection-end-line="224" selection-end-column="38" />
         </state>
       </provider>
     </entry>

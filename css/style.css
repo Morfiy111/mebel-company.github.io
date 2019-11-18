@@ -304,6 +304,10 @@ button.close {
 .material-text {
     width: 48%;
 }
+.footer-copyright {
+    text-align: center;
+    font-size: 12px;
+}
 @media(max-width: 991px) {
     .header-flex-top {
         flex-wrap: wrap;
