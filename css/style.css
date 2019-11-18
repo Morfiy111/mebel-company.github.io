@@ -270,6 +270,24 @@ button.close {
     margin-right: 8px;
     font-size: 22px;
 }
+.big-center-text {
+    font-size: 22px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.contact-tel-block a {
+    display: block;
+    margin-bottom: 15px;
+    color: #333;
+}
+.contact-tel-block i {
+    color: #ec1f24;
+}
+.contact-tel-block {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
 @media(max-width: 991px) {
     .header-flex-top {
         flex-wrap: wrap;
@@ -331,6 +349,10 @@ button.close {
     }
     .footer-flex-block {
         flex-wrap: wrap;
+    }
+    .contact-tel-block {
+        flex-direction: column;
+        align-items: center;
     }
 }
 @media(max-width: 500px) {
