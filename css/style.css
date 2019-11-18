@@ -288,6 +288,9 @@ button.close {
     justify-content: space-between;
     margin-bottom: 40px;
 }
+.owl-feedback-form .file-input-modal {
+    margin-bottom: 30px;
+}
 @media(max-width: 991px) {
     .header-flex-top {
         flex-wrap: wrap;
