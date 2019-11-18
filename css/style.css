@@ -1,7 +1,7 @@
 body {
     font-family: 'Fira Sans', sans-serif;
     overflow-x: hidden;
-    font-size: 16px;
+    font-size: 18px;
 }
 a, button {
     transition: all .2s linear;
@@ -204,7 +204,7 @@ button.close {
 }
 .iconblock-7 h3 {
     transition: all 0.7s ease 0s;
-    font-size:20px;
+    font-size:22px;
     margin:10px 0;
 }
 .iconblock-7:hover h3 {
@@ -262,6 +262,13 @@ button.close {
 }
 .footer-address-item i {
     margin-right: 5px;
+}
+.footer-address .social-block {
+    display: flex;
+}
+.footer-address .social-block a {
+    margin-right: 8px;
+    font-size: 22px;
 }
 @media(max-width: 991px) {
     .header-flex-top {
