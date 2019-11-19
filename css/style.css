@@ -330,6 +330,7 @@ button.close {
     justify-content: center;
     flex-wrap: wrap;
 }
+
 @media(max-width: 991px) {
     .header-flex-top {
         flex-wrap: wrap;
