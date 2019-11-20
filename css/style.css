@@ -81,8 +81,15 @@ a:hover {
 .logo-block a {
     color: #333;
 }
-.logo-block span, .header-block-item i {
+.logo-block .logo-text-red, .header-block-item i {
     color: #ec1f24;
+}
+.italic-text-logo {
+    font-family: 'Yellowtail', cursive;
+    font-size: 34px;
+}
+.header-block-item .fa-map-marker {
+    margin-right: 16px;
 }
 .header-block-item i {
     font-size: 20px;
