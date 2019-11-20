@@ -114,6 +114,9 @@ a:hover {
     color: #ec1f24;
     background-color: #fff;
 }
+.header-send-block p {
+    text-align: center;
+}
 .main-title-page {
     text-align: center;
     margin-bottom: 30px;
